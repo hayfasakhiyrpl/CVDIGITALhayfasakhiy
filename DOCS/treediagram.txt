@@ -1,0 +1,18 @@
+cvdigital.hayfa
+│
+├── assets
+│   ├── css
+│   ├── js
+│   └── images
+│
+├── database
+│   └── sekolah.sql
+│
+├── docs
+│   └── dokumentasi.pdf
+│
+├── pages
+│   ├── home.php
+│   └── login.php
+│
+└── README.md
